@@ -1,0 +1,2 @@
+# sonar-data-project-of-mines-prediction-by-using-machine-leaarning-models
+This project focuses on classifying Sonar signals to distinguish between metal objects (like mines) and rock formations using Machine Learning models. The dataset contains sonar signals bounced off different surfaces, and the goal is to build a model that accurately predicts whether the detected object is a Rock (R) or a Mine (M).
