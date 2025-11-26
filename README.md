@@ -1,4 +1,4 @@
-Sonar Data – Mines vs Rocks Prediction
+**Sonar Data – Mines vs Rocks Prediction**
 Machine Learning Classification Project | Python | Scikit-learn
 
 This project aims to classify underwater sonar signals as either:
@@ -9,7 +9,7 @@ Rocks (R) → harmless natural formations
 
 Using various machine learning algorithms, we build, compare, and evaluate predictive models based on the UCI Sonar Dataset.
 
-🚀 Project Overview
+**Project Overview**
 
 The Sonar Dataset contains 208 samples with 60 sonar-frequency energy features.
 Goal: Build a model that can accurately classify an object as Mine or Rock based on sonar returns.
